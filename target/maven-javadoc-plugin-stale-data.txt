@@ -1,0 +1,45 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'16'
+-sourcepath
+'D:/Documentos/Escuela/monitoreoProcesoRemoto/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Documentos/Escuela/monitoreoProcesoRemoto/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'monitoreoProcesoRemoto 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'monitoreoProcesoRemoto 1.0-SNAPSHOT API'
+com.progcs_a.monitoreoprocesoremoto
+'D:/Documentos/Escuela/monitoreoProcesoRemoto/src/main/java/com/progcs_a/monitoreoprocesoremoto/MonitoreoRemotoCliente.java'
+'D:/Documentos/Escuela/monitoreoProcesoRemoto/src/main/java/com/progcs_a/monitoreoprocesoremoto/MonitoreoRemotoServidor.java'
+'D:/Documentos/Escuela/monitoreoProcesoRemoto/src/main/java/com/progcs_a/monitoreoprocesoremoto/ObjectImputStream.java'
+'D:/Documentos/Escuela/monitoreoProcesoRemoto/src/main/java/com/progcs_a/monitoreoprocesoremoto/ObjectOutputSream.java'
+'D:/Documentos/Escuela/monitoreoProcesoRemoto/src/main/java/com/progcs_a/monitoreoprocesoremoto/Orden.java'
+'D:/Documentos/Escuela/monitoreoProcesoRemoto/src/main/java/com/progcs_a/monitoreoprocesoremoto/socket.java'
+D:\Documentos\Escuela\monitoreoProcesoRemoto\src\main\java = 1635208357909
+D:\Documentos\Escuela\monitoreoProcesoRemoto\target\site\apidocs\allclasses-frame.html = 1635208459134
+D:\Documentos\Escuela\monitoreoProcesoRemoto\target\site\apidocs\allclasses-noframe.html = 1635208459136
+D:\Documentos\Escuela\monitoreoProcesoRemoto\target\site\apidocs\constant-values.html = 1635208459057
+D:\Documentos\Escuela\monitoreoProcesoRemoto\target\site\apidocs\deprecated-list.html = 1635208459132
+D:\Documentos\Escuela\monitoreoProcesoRemoto\target\site\apidocs\help-doc.html = 1635208459140
+D:\Documentos\Escuela\monitoreoProcesoRemoto\target\site\apidocs\index-all.html = 1635208459127
+D:\Documentos\Escuela\monitoreoProcesoRemoto\target\site\apidocs\index.html = 1635208459137
+D:\Documentos\Escuela\monitoreoProcesoRemoto\target\site\apidocs\overview-tree.html = 1635208459102
+D:\Documentos\Escuela\monitoreoProcesoRemoto\target\site\apidocs\package-list = 1635208459034
+D:\Documentos\Escuela\monitoreoProcesoRemoto\target\site\apidocs\script.js = 1635208459143
+D:\Documentos\Escuela\monitoreoProcesoRemoto\target\site\apidocs\serialized-form.html = 1635208459077
+D:\Documentos\Escuela\monitoreoProcesoRemoto\target\site\apidocs\stylesheet.css = 1635208459142
